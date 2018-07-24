@@ -1,0 +1,44 @@
+$uicss{background:$bodybgcolor$; background:$bgcolor$; position:relative; background-position:top center; background-size:cover;
+padding:$paddinglg$px 0; color:$secondcolor$; color:$desccolor$;}
+@media(max-width:1199px){
+$uicss{padding:$paddingsm$px 0;} }
+@media(max-width:767px){
+$uicss{padding:$paddingxs$px 0;} }
+
+$uicss .col-md-4{padding-top:15px; padding-bottom:15px;}
+
+
+$uicss p{color:$secondcolor$; color:$desccolor$; line-height:2;}
+$uicss h4{color:$firstcolor$; color:$titlecolor$; padding-bottom:11px;}
+$uicss a{color:$secondcolor$; color:$desccolor$;} 
+$uicss a:hover{color:$thirdcolor$; color:$hovercolor$;}
+
+$uicss .description{position:relative;}
+
+$uicss dd,
+$uicss dt{line-height:1.57142857;}
+
+ 
+$uicss .dl-contact{margin-bottom:11px;}
+$uicss .dl-contact dt{float:left; clear:left; font-size:16px; text-align:center; width:20px; margin:0; padding:0;}
+$uicss .dl-contact dd{margin:0; padding:0; margin-left:45px;} 
+
+$uicss .dl-news{margin-bottom:11px; min-height:50px;}
+$uicss .dl-news dt{float:left; clear:left; width:50px; margin:0; padding:0;}
+$uicss .dl-news dd{margin:0; padding:0; margin-left:60px;}
+$uicss .dl-news dd a{display:block;}
+$uicss .dl-news dd i{display:block; font-style:normal;}
+ 
+
+$uicss .social-box{padding-top:29px;}
+$uicss .social-box a{display:inline-block; width:45px; height:45px; border-radius:45px; 
+text-align:center; line-height:45px; font-size:16px; margin:0 10px 10px 0; position:relative;
+background:$iconbg$; color:$firstcolor$; color:$titlecolor$;}
+$uicss .social-box a span{position:absolute; z-index:1000; width:120px; margin:0; display:block;
+box-shadow:0 3px 6px rgba(0,0,0,.1); visibility:hidden; opacity:0; bottom:60px; left:50%; margin-left:-60px;
+transition:.3s; -moz-transition:.3s; -ms-transition:.3s; -o-transition:.3s; -webkit-transition:.3s;}
+$uicss .social-box a:hover span{visibility:visible; opacity:1;}
+$uicss .social-box a span:before{position:absolute; left:50%; top:100%; border-style:solid; border-width:8px 6px 0 6px;
+border-color:transparent; border-top-color:$firstcolor$; border-top-color:$titlecolor$; content:''; margin-left:-6px;}
+$uicss .social-box a span img{width:100%; display:block;}
+ 

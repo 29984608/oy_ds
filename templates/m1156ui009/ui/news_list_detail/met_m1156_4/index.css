@@ -1,0 +1,82 @@
+$uicss{background:$bodybgcolor$; background:$bgcolor$; position:relative; background-position:top center; background-size:100% auto;
+word-break:break-all; overflow:hidden; color:$secondcolor$; color:$desccolor$;}
+$uicss a{color:$firstcolor$; color:$titlecolor$;}
+$uicss a:focus, $uicss a:hover{color:$thirdcolor$; color:$hovercolor$;}
+$uicss .h1, $uicss .h2, $uicss .h3, $uicss .h4, $uicss .h5, $uicss .h6,
+$uicss h1, $uicss h2, $uicss h3, $uicss h4, $uicss h5, $uicss h6{color:$firstcolor$; color:$titlecolor$;}
+
+
+
+$uicss .met-editor { padding: 30px; background: $showcolor$; width: 100%; 
+max-width: 100%; font-weight: 300; line-height: 1.8; word-wrap: break-word; }
+@media (max-width: 767px) {
+$uicss .met-editor { padding: 10px; }
+}
+$uicss .met-editor p { margin-bottom: 16px; }
+$uicss .met-editor img { max-width: 100%; }
+$uicss .met-editor img:not(.imgloading) { height: auto !important; } 
+$uicss .met-editor .table-saw { overflow-x: auto; }
+$uicss .met-editor .metvideobox,
+$uicss .met-editor video,
+$uicss .met-editor .metvideo,
+$uicss .met-editor iframe,
+$uicss .met-editor embed { max-width: 100% !important;  } 
+$uicss .vjs-fullscreen{}
+@media(max-width:767px) {
+$uicss .met-editor .metvideobox{max-height:350px;}
+}
+$uicss .met-editor .lg-item-box { display: inline; }
+
+
+$uicss .met-news-bar { margin-left: 30px; padding: 20px; background: $showcolor$;  }
+@media (max-width: 991px) {
+$uicss .met-news-bar { margin-left: 0px; margin-top: 30px; padding: 30px; }
+}
+@media (max-width: 767px) {
+$uicss .met-news-bar { margin: 0; padding: 15px; }
+}
+$uicss .met-news-bar ul.column { padding: 0px; list-style: none; }
+$uicss .met-news-bar ul.column li { margin-bottom: 10px; }
+$uicss .met-news-bar ul.column li a { font-size: 15px; }
+$uicss .met-news-bar .recommend { margin: 20px 0px; padding: 20px 0px; border-top: 1px solid $bordercolor$; border-bottom: 1px solid $bordercolor$; }
+$uicss .met-news-bar .recommend h3 { font-size: 18px; font-weight: 300; margin: 0px; }
+$uicss .met-news-bar .recommend .list-group { margin-top: 10px; margin-bottom: 0px; }
+$uicss .met-news-bar .recommend .list-group a { font-size: 15px; } 
+
+$uicss .list-group-bordered .list-group-item{border-color:$bordercolor$;}
+
+$uicss .list-group-item{background:none;}
+$uicss .form-control{border: 1px solid $bordercolor$; background:none;}
+$uicss .met-shownews { padding: 30px 0px; }
+$uicss .met-shownews .met-shownews-header,
+$uicss .met-shownews .met-shownews-footer { padding: 30px; background: $showcolor$; }
+@media (max-width: 767px) {
+$uicss .met-news-bar ul.column li a { font-size: 14px;}
+$uicss .met-shownews .met-shownews-header,
+$uicss .met-shownews .met-shownews-footer { padding: 10px; }
+}
+$uicss .met-shownews .met-shownews-header { padding-bottom: 0px; }
+$uicss .met-shownews h1 { margin: 0px; margin-bottom: 5px; font-size: 26px; line-height: 1.5; font-weight: 300; }
+$uicss .met-shownews .info { padding-bottom: 20px; border-bottom: 1px solid $bordercolor$; font-size: 14px; font-weight: 300;  }
+$uicss .met-shownews .info span { padding-right: 10px; opacity:.9; }
+@media (max-width: 767px) {
+$uicss .met-shownews .info { padding-bottom: 20px; }
+}
+$uicss .met-shownews .met-shownews-footer { padding-top: 0px; }
+$uicss .met-shownews .met-shownews-footer ul.pager { margin: 0px; border-top: 1px solid $bordercolor$; padding-top: 20px; }
+@media (max-width: 767px) {
+$uicss .met-shownews { padding: 14px 0px; }
+$uicss .met-shownews h1 { font-size: 24px; }
+$uicss .met-shownews .met-shownews-header { padding-top: 20px; }
+}
+$uicss .widget{background:none; box-shadow:none;}
+
+$uicss .border-top1{border-top: 1px solid $bordercolor$;}
+
+$uicss .met-page{padding:0 !important;}
+$uicss .met-page .pagination li a{color:$secondcolor$; color:$desccolor$;} 
+$uicss .met-page .page-link{border: 1px solid $bordercolor$;}
+$uicss .met-page .page-link:focus,
+$uicss .met-page .page-link:hover{background:none; border-color:$thirdcolor$; border-color:$hovercolor$;}
+$uicss .met-page .pagination li a:focus,
+$uicss .met-page .pagination li a:hover{color:$thirdcolor$; color:$hovercolor$;}

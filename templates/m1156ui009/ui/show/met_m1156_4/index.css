@@ -1,0 +1,28 @@
+$uicss{background:$bodybgcolor$; background:$bgcolor$; position:relative; background-position:top center; background-size:100% auto;
+word-break:break-all; overflow:hidden; color:$secondcolor$; color:$desccolor$;}
+$uicss a:focus, $uicss a:hover{color:$thirdcolor$; color:$hovercolor$;}
+$uicss .h1, $uicss .h2, $uicss .h3, $uicss .h4, $uicss .h5, $uicss .h6,
+$uicss h1, $uicss h2, $uicss h3, $uicss h4, $uicss h5, $uicss h6{color:$firstcolor$; color:$titlecolor$;}
+
+
+$uicss .met-show{padding:30px 0px; word-break:break-all; }
+@media (max-width:767px) {
+$uicss .met-show{padding:0px; } }
+@media (max-width:767px) {
+$uicss .met-show{padding-top:10px; padding-bottom:10px; } }
+
+$uicss .met-editor{padding:30px; width:100%; max-width:100%; font-weight:300; line-height:1.8; word-wrap:break-word; background:$showcolor$;}
+@media (max-width:767px) {
+$uicss .met-editor{padding:10px; } }
+$uicss .met-editor p{margin-bottom:16px; }
+$uicss .met-editor *{max-width:100%; }
+$uicss .met-editor img:not(.imgloading){height:auto !important; } 
+$uicss .met-editor .table-saw{overflow-x:auto; }
+$uicss .met-editor .metvideobox, 
+$uicss .met-editor video, 
+$uicss .met-editor .metvideo, 
+$uicss .met-editor iframe, 
+$uicss .met-editor embed{max-width:100% !important; margin:auto; display:block; }
+@media(max-width:767px) {
+$uicss .met-editor .metvideobox{max-height:350px;} }
+$uicss .met-editor .lg-item-box{display:inline; }

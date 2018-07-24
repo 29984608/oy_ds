@@ -1,0 +1,29 @@
+$uicss{background:$bodybgcolor$; background:$bgcolor$; position:relative; background-position:top center; background-size:cover;
+padding:$paddinglg$px 0;}
+@media(max-width:1199px){
+$uicss{padding:$paddingsm$px 0;} }
+@media(max-width:767px){
+$uicss{padding:$paddingxs$px 0;} }
+
+$uicss .column-box{margin:0;}
+$uicss .column-box ul{list-style:none; padding:0; margin:0; width:100%;}
+$uicss .column-box ul:after{display:block; clear:both; content:'';}
+$uicss .column-box ul li{float:left; list-style:none; padding:20px 0; margin:0;}
+$uicss .column-box ul li a{position:relative; display:block; text-align:center;}
+$uicss .column-box ul li a img{display:block; max-width:100%; margin:0 auto;}
+
+$uicss .column-box ul li a i{font-size:34px; color:$secondcolor$; color:$desccolor$;}
+
+$uicss .column-box ul li a h3{display:block; font-weight:normal; font-size:18px; margin:24px 0 20px 0;
+text-shadow:none; color:$firstcolor$; color:$titlecolor$; 
+transition:transform .3s; -moz-transition:transform .3s; -o-transition:transform .3s; 
+-webkit-transition:transform .3s; -ms-transition:transform .3s;}
+$uicss .column-box ul li a:hover h3{color:$thirdcolor$; color:$hovercolor$;}
+
+$uicss .column-box ul li a p{display:block; color:$secondcolor$; color:$desccolor$; padding:0; margin:0; line-height:2;}
+
+@media(max-width:1199px) and (min-width:992px){
+$uicss .column-box ul li a p br{display:none;} }
+
+@media(max-width:767px){
+$uicss .column-box ul li a p.m{display:none;} }

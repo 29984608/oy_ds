@@ -1,0 +1,36 @@
+[
+    {
+        "id": "574",
+        "no": "m1156ui009",
+        "pos": "0",
+        "no_order": "1",
+        "type": "1",
+        "style": "3",
+        "selectd": "",
+        "name": "shotcut",
+        "value": "",
+        "defaultvalue": "",
+        "valueinfo": "快捷图标",
+        "tips": "",
+        "lang": "cn",
+        "bigclass": "0",
+        "sub": [
+            {
+                "id": "575",
+                "no": "m1156ui009",
+                "pos": "0",
+                "no_order": "2",
+                "type": "6",
+                "style": "4",
+                "selectd": "",
+                "name": "shoutcut1",
+                "value": "",
+                "defaultvalue": "",
+                "valueinfo": "栏目选择",
+                "tips": "",
+                "lang": "cn",
+                "bigclass": "574"
+            }
+        ]
+    }
+]

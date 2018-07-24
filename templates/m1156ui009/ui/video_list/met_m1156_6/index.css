@@ -1,0 +1,51 @@
+$uicss{background:$bodybgcolor$; background:$bgcolor$; position:relative; background-position:top center; background-size:cover; text-align:center;
+padding:$paddinglg$px 0;} 
+@media(max-width:1199px){
+$uicss{padding:$paddingsm$px 0;} }
+@media(max-width:767px){
+$uicss{padding:$paddingxs$px 0;} }
+
+$uicss .case-box{position:relative;}
+$uicss .case-box h2.h2{display:block; margin:15px 0 0 0; line-height:1;  color:$firstcolor$; color:$titlecolor$;}
+$uicss .case-box h2.h2 + span{border:1px solid $firstcolor$; border-color:$titlecolor$; height:0; 
+line-height:0; width:40px; display:block; margin:40px auto;}
+@media(max-width:1199px){
+$uicss .case-box h2.h2 + span{margin:30px auto;} }
+@media(max-width:767px){
+$uicss .case-box h2.h2 + span{margin:20px auto;} }
+
+$uicss .prices-video {color:$secondcolor$; color:$desccolor$;}
+$uicss .prices-video *{max-width:100%;}
+
+$uicss .video-content{width:100%; position:relative;}
+$uicss .video-content span{position:absolute; top:0; left:0; width:100%; height:100%; z-index:9; cursor:pointer;}
+$uicss .video-content span p{position:absolute; top:0; left:0; width:100%; height:100%; z-index:10; background:rgba(0,0,0,.1);}
+$uicss .video-content span p i{position:absolute; font-size:100px; color:rgba(255,255,255,.85); top:50%; left:50%; width:100px; height:100px; line-height:100px; text-align:center; margin:-50px 0 0 -50px; text-shadow:0 0 10px rgba(255,255,255,.15);
+animation: video 2s infinite; -webkit-animation: video 2s infinite;
+transition: color 0.5s; -moz-transition: color 0.5s; -webkit-transition: color 0.5s; -o-transition: color 0.5s;}
+$uicss .video-content span:hover p i{color:rgba(255,255,255,.85);
+transition: color 0.5s; -moz-transition: color 0.5s; -webkit-transition: color 0.5s; -o-transition: color 0.5s;}
+$uicss .video-content video{width:100%; display:block;}
+@keyframes video { 
+0% {text-shadow:0 0 10px rgba(255,255,255,.15);}
+50% {text-shadow:0 0 25px rgba(255,255,255,.85);}
+100% {text-shadow:0 0 10px rgba(255,255,255,.15);} }
+@-webkit-keyframes video { 
+0% {text-shadow:0 0 10px rgba(255,255,255,.15);}
+50% {text-shadow:0 0 25px rgba(255,255,255,.85);}
+100% {text-shadow:0 0 10px rgba(255,255,255,.15);} }
+@media (max-width:991px) {
+$uicss .video-content span p i{font-size:80px;} }
+@media (max-width:767px) {
+$uicss .video-content span p i{font-size:60px;} }
+
+$uicss .case-button{border:1px solid $desccolor$; border-color:$bordercolor$; color:$secondcolor$; color:$desccolor$;
+padding:7px 28px; margin-top:$paddinglg$px; display:inline-block; 
+-webkit-transition:.5s; -ms-transition:.5s; transition:.5s;}
+@media(max-width:1199px){
+$uicss .case-button{margin-top:$paddingsm$px;} }
+@media(max-width:767px){
+$uicss .case-button{margin-top:$paddingxs$px;} }
+$uicss .case-button:hover{background:$thirdcolor$; background:$hovercolor$; 
+border-color:$thirdcolor$; border-color:$hovercolor$; color:$focuscolor$; 
+text-decoration:none; -webkit-transition:.5s; -ms-transition:.5s; transition:.5s; }
