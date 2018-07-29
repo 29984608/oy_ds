@@ -50,15 +50,15 @@ $rs = $conn->query($sql);
         <h3 >____</h3>
         <br />
     </div>
-    <li class='nav-item m-l-{$lang.nav_ml}'>
+<!--    <li class='nav-item m-l-{$lang.nav_ml}'>
         <a href="{$m.url}" {$m.urlnew} title="{$m.name}" class="nav-link {$m.class}">{$m.name}
         </a>
-    </li>
+    </li>-->
 	<div class="row  ">
         <?php
         while ($row = $rs->fetch_assoc()) {
             ?>
-            <div class="col-md-1 col-sm-3 col-xs-6 divheight"><a href="#"><i class=" <?php echo $row['nav_icon'] ?> faa-slow faa-shake animated-hover fa-3x"></i></a><br /><a href="<?php echo $row['nav_url']?>"><?php echo $row['nav_title']?></a></div>
+            <div class="col-md-1 col-sm-3 col-xs-6 divheight"><a href="<?php echo $row['nav_url']?>"><i class=" <?php echo $row['nav_icon'] ?> faa-slow faa-shake animated-hover fa-3x"></i></a><br /><a href="<?php echo $row['nav_url']?>"><?php echo $row['nav_title']?></a></div>
             <!-- <div class="col-md-1 col-sm-3 col-xs-6 divheight"><a href="#"><i class=" fa-calendar faa-slow faa-shake animated-hover fa-3x"></i></a><br /><a href="#">课程中心</a></div>
              <div class="col-md-1 col-sm-3 col-xs-6 divheight"><a href="#"><i class=" fa-group faa-slow faa-shake animated-hover fa-3x"></i></a><br /><a href="#">服务团队</a></div>
              <div class="col-md-1 col-sm-3 col-xs-6 divheight"><a href="#"><i class=" fa-barcode faa-slow faa-shake animated-hover fa-3x"></i></a><br /><a href="#">营销优惠</a></div>

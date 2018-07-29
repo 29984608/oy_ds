@@ -1,5 +1,5 @@
 
-﻿/**
+/**
  * jquery-s2t v0.1.0
  *
  * https://github.com/hustlzp/jquery-s2t
@@ -281,7 +281,8 @@ if(x.hashnav.initialized&&x.params.hashnav)if(x.params.replaceState&&window.hist
             });
             $('#'+canvas_id).attr({'data-load':true});
         },
-        thumbdir=M['weburl']+'include/thumb.php?dir=';
+        thumbdir=M['weburl']+'include/thumb.php?dir=',
+        placeholder_base64='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC';
     $.fn.lazyload = function(options) {
         var elements = this;
         var $container;
@@ -351,14 +352,14 @@ if(x.hashnav.initialized&&x.params.hashnav)if(x.params.replaceState&&window.hist
                 return update();
             });
         }
-        if(settings.placeholder=='base64') settings.placeholder=met_lazyloadbg_base64;
-
+        if(settings.placeholder=='base64') settings.placeholder=placeholder_base64;
+        this.attr({'data-lazyload':true});
         this.each(function(index) {
             var self = this,
                 $self = $(self),
                 original = $self.attr("data-" + settings.data_attribute),
                 placeholder=settings.placeholder,
-                placeholder_ok=placeholder!=met_lazyloadbg_base64?true:false;
+                placeholder_ok=placeholder!=placeholder_base64?true:false;
             self.loaded = false;
 
             /* If no src attribute given use data:uri. */

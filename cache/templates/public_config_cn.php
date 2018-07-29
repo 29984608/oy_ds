@@ -1,0 +1,1 @@
+<?php defined('IN_MET') or exit('No permission'); ?>{"firstcolor":"#ffffff","secondcolor":"#ffffff","thirdcolor":"#ffffff","urlnew":"target=_self","bodybgimg":"","bodybgcolor":"","lazyloadbg":"","met_font":""}

@@ -3,11 +3,449 @@
   <component name="ChangeListManager">
     <list default="true" id="5d8eabcf-39d0-466f-8413-c1605801538b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_oyds/navigation/page/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_oyds/navigation/page/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_oyds/navigation/static/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/_1b779b94.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/templates/_1b779b94.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/_f61499df.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/templates/_f61499df.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_oyds/app/wap/custommenu.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_oyds/app/wap/custommenu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_oyds/app/wap/custommenueditor.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_oyds/app/wap/custommenueditor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_oyds/app/wap/delapp.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_oyds/app/wap/delapp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_oyds/include/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_oyds/include/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_oyds/include/uploadify.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_oyds/include/uploadify.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_oyds/templates/met/app/wap/custommenu.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin_oyds/templates/met/app/wap/custommenu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_oyds/templates/met/app/wap/custommenueditor.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin_oyds/templates/met/app/wap/custommenueditor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_oyds/templates/met/app/wap/menu_set.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin_oyds/templates/met/app/wap/menu_set.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_oyds/templates/met/app/wap/wap.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin_oyds/templates/met/app/wap/wap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_oyds/templates/met/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin_oyds/templates/met/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/met_sms/admin/index.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/met_sms/admin/index.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/met_sms/admin/install.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/met_sms/admin/install.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/met_sms/admin/templates/mass.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/met_sms/admin/templates/mass.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/met_sms/admin/templates/sms_log.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/met_sms/admin/templates/sms_log.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/met_sms/admin/uninstall.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/met_sms/admin/uninstall.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/met_template/admin/class/UI.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/met_template/admin/class/UI.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/met_template/admin/templates/css/metinfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/met_template/admin/templates/css/metinfo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/met_template/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/met_template/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/met_template/admin/templates/temlist.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/met_template/admin/templates/temlist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/met_template/admin/temtool.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/met_template/admin/temtool.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/met_template/admin/uiset.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/met_template/admin/uiset.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/met_template/admin/uninstall.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/met_template/admin/uninstall.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/ueditor/ueditor.all.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/ueditor/ueditor.all.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/ueditor/ueditor.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/ueditor/ueditor.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/about/admin/about_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/about/admin/about_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/about/admin/templates/batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/about/admin/templates/batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/about/admin/templates/js/product_add.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/about/admin/templates/js/product_add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/about/admin/templates/mod_batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/about/admin/templates/mod_batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/about/admin/templates/product_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/about/admin/templates/product_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/about/admin/templates/product_para.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/about/admin/templates/product_para.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/admin/admin/admin_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/admin/admin/admin_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/admin/admin/templates/admin_index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/admin/admin/templates/admin_index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/admin/admin/templates/admin_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/admin/admin/templates/admin_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/admin/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/admin/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/admin/templates/web/appstore/partner.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/admin/templates/web/appstore/partner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/appstore/admin/appstore.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/appstore/admin/appstore.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/appstore/admin/member.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/appstore/admin/member.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/appstore/admin/support.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/appstore/admin/support.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/appstore/admin/templates/appdetail.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/appstore/admin/templates/appdetail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/appstore/admin/templates/appstore.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/appstore/admin/templates/appstore.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/appstore/admin/templates/css/metinfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/appstore/admin/templates/css/metinfo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/appstore/admin/templates/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/appstore/admin/templates/head.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/appstore/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/appstore/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/appstore/admin/templates/recharge.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/appstore/admin/templates/recharge.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/appstore/admin/templates/service.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/appstore/admin/templates/service.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/appstore/admin/templates/support.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/appstore/admin/templates/support.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/appstore/admin/templates/tempservice.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/appstore/admin/templates/tempservice.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/appstore/admin/templates/temstore.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/appstore/admin/templates/temstore.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/appstore/admin/tempservice.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/appstore/admin/tempservice.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/banner/admin/banner_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/banner/admin/banner_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/banner/admin/templates/article_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/banner/admin/templates/article_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/banner/admin/templates/batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/banner/admin/templates/batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/banner/admin/templates/flashset.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/banner/admin/templates/flashset.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/banner/admin/templates/js/product_add.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/banner/admin/templates/js/product_add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/banner/admin/templates/js/product_index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/banner/admin/templates/js/product_index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/banner/include/class/banner_database.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/banner/include/class/banner_database.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/banner/include/class/banner_handle.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/banner/include/class/banner_handle.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/banner/include/class/banner_label.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/banner/include/class/banner_label.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/base/admin/base_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/base/admin/base_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/base/include/class/base_label.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/base/include/class/base_label.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/batch/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/batch/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/batch/admin/templates/thumb.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/batch/admin/templates/thumb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/column/admin/index.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/column/admin/index.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/column/admin/templates/editor.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/column/admin/templates/editor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/column/admin/templates/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/column/admin/templates/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/column/admin/templates/js/iframes.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/column/admin/templates/js/iframes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/column/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/column/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/column/admin/templates/set_icon.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/column/admin/templates/set_icon.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/column/include/class/column_database.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/column/include/class/column_database.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/column/include/class/column_label.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/column/include/class/column_label.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/column/include/class/column_op.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/column/include/class/column_op.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/column/include/class/column_tag.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/column/include/class/column_tag.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/config/include/class/config_database.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/config/include/class/config_database.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/admin/article_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/admin/article_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/admin/product_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/admin/product_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/admin/templates/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/admin/templates/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/admin/templates/article_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/admin/templates/article_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/admin/templates/article_index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/admin/templates/article_index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/admin/templates/batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/admin/templates/batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/admin/templates/js/product_add.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/admin/templates/js/product_add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/admin/templates/js/product_index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/admin/templates/js/product_index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/admin/templates/mod_batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/admin/templates/mod_batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/admin/templates/product_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/admin/templates/product_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/admin/templates/product_index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/admin/templates/product_index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/admin/templates/product_para.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/admin/templates/product_para.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/include/class/module.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/include/class/module.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/include/class/sys_article.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/include/class/sys_article.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/include/class/sys_product.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/include/class/sys_product.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/content/include/class/sys_shop.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/content/include/class/sys_shop.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/databack/admin/index.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/databack/admin/index.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/databack/admin/templates/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/databack/admin/templates/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/databack/admin/templates/js/iframes.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/databack/admin/templates/js/iframes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/databack/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/databack/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/databack/admin/templates/recovery.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/databack/admin/templates/recovery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/databack/admin/templates/table.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/databack/admin/templates/table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/download/admin/download_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/download/admin/download_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/download/admin/templates/batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/download/admin/templates/batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/download/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/download/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/download/admin/templates/mod_batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/download/admin/templates/mod_batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/feedback/admin/feedback_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/feedback/admin/feedback_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/feedback/admin/templates/article_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/feedback/admin/templates/article_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/feedback/admin/templates/article_index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/feedback/admin/templates/article_index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/feedback/admin/templates/batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/feedback/admin/templates/batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/feedback/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/feedback/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/feedback/admin/templates/js/product_add.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/feedback/admin/templates/js/product_add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/feedback/admin/templates/js/product_index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/feedback/admin/templates/js/product_index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/feedback/admin/templates/mod_batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/feedback/admin/templates/mod_batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/feedback/admin/templates/product_para.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/feedback/admin/templates/product_para.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/feedback/admin/templates/set.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/feedback/admin/templates/set.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/feedback/include/class/feedback_database.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/feedback/include/class/feedback_database.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/feedback/include/class/feedback_label.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/feedback/include/class/feedback_label.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/feedback/web/feedback.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/feedback/web/feedback.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/getpassword/admin/index.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/getpassword/admin/index.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/getpassword/admin/templates/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/getpassword/admin/templates/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/html/admin/html.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/html/admin/html.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/html/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/html/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/img/admin/img_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/img/admin/img_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/img/admin/templates/article_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/img/admin/templates/article_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/img/admin/templates/batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/img/admin/templates/batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/img/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/img/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/img/admin/templates/product_para.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/img/admin/templates/product_para.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/imgmanager/admin/imgmanager.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/imgmanager/admin/imgmanager.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/imgmanager/admin/templates/thumbs.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/imgmanager/admin/templates/thumbs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/common.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/common.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/engine.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/engine.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/image.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/image.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/load.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/load.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/para.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/para.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/pin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/pin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/sms.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/sms.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/tabledata.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/tabledata.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/upfile.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/upfile.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/user.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/user.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/view/met_tag.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/view/met_tag.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/view/met_view.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/view/met_view.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/view/ui_compile.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/view/ui_compile.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/view/ui_tag.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/view/ui_tag.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/view/view_compile.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/view/view_compile.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/watermark.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/watermark.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/class/web.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/class/web.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/compatible/metv5_top.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/compatible/metv5_top.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/function/admin.func.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/function/admin.func.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/function/common.func.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/function/common.func.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/function/compatible.func.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/function/compatible.func.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/function/str.func.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/function/str.func.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/function/web.func.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/function/web.func.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/module/editor.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/module/editor.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/module/keylogin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/module/keylogin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/module/uploadify.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/module/uploadify.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/js/examples/form/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/js/examples/form/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/js/examples/include/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/js/examples/include/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/js/examples/include/download.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/js/examples/include/download.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/js/examples/include/min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/js/examples/include/min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/js/examples/table/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/js/examples/table/table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/js/examples/upload/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/js/examples/upload/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/js/sea.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/js/sea.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/ui/admin/box.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/ui/admin/box.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/ui/admin/css/box.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/ui/admin/css/box.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/ui/admin/css/metinfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/ui/admin/css/metinfo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/ui/admin/foot.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/ui/admin/foot.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/ui/admin/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/ui/admin/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/ui/admin/function_ency.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/ui/admin/function_ency.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/ui/admin/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/ui/admin/head.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/ui/admin/paratype.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/ui/admin/paratype.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/ui/admin/top.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/ui/admin/top.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/ui/web/metv5.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/ui/web/metv5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/public/ui/web/paratype.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/public/ui/web/paratype.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/static/vendor/select-linkage/jquery.cityselect.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/static/vendor/select-linkage/jquery.cityselect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/static2/assets/js/Site.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/static2/assets/js/Site.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/static2/fonts/font-awesome/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/static2/fonts/font-awesome/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/static2/js/Plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/static2/js/Plugin.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/static2/js/Plugin/alertify.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/static2/js/Plugin/alertify.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/static2/js/Plugin/asselectable.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/static2/js/Plugin/asselectable.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/static2/js/Plugin/asspinner.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/static2/js/Plugin/asspinner.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/static2/js/Plugin/bootstrap-tokenfield.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/static2/js/Plugin/bootstrap-tokenfield.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/static2/js/Plugin/selectable.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/static2/js/Plugin/selectable.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/static2/vendor/alertify/alertify.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/static2/vendor/alertify/alertify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/static2/vendor/bootstrap-tokenfield/bootstrap-tokenfield.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/static2/vendor/bootstrap-tokenfield/bootstrap-tokenfield.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/static2/vendor/datatables-bootstrap/dataTables.bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/static2/vendor/datatables-bootstrap/dataTables.bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/static2/vendor/formvalidation/formValidation.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/static2/vendor/formvalidation/formValidation.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/include/static2/vendor/s2t/jquery.s2t.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/include/static2/vendor/s2t/jquery.s2t.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/index/admin/index.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/index/admin/index.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/index/admin/templates/css/metinfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/index/admin/templates/css/metinfo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/index/admin/templates/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/index/admin/templates/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/index/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/index/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/job/admin/job_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/job/admin/job_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/job/admin/templates/batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/job/admin/templates/batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/job/admin/templates/info.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/job/admin/templates/info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/job/admin/templates/mod_batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/job/admin/templates/mod_batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/job/admin/templates/product_para.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/job/admin/templates/product_para.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/job/admin/templates/set.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/job/admin/templates/set.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/job/web/job.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/job/web/job.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/language/admin/language_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/language/admin/language_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/language/admin/templates/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/language/admin/templates/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/language/admin/templates/langadd.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/language/admin/templates/langadd.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/language/admin/templates/langeditor.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/language/admin/templates/langeditor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/language/admin/templates/langset.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/language/admin/templates/langset.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/language/admin/templates/mengenedit.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/language/admin/templates/mengenedit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/language/admin/templates/paraeditor.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/language/admin/templates/paraeditor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/language/include/class/language_database.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/language/include/class/language_database.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/link/admin/link_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/link/admin/link_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/link/admin/templates/article_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/link/admin/templates/article_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/link/admin/templates/article_index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/link/admin/templates/article_index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/link/admin/templates/batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/link/admin/templates/batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/link/admin/templates/js/product_add.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/link/admin/templates/js/product_add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/link/admin/templates/js/product_index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/link/admin/templates/js/product_index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/link/admin/templates/product_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/link/admin/templates/product_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/link/admin/templates/product_para.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/link/admin/templates/product_para.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/link/include/class/link_database.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/link/include/class/link_database.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/link/include/class/link_tag.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/link/include/class/link_tag.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/login/admin/login.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/login/admin/login.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/manage/admin/index.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/manage/admin/index.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/manage/admin/templates/css/newstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/manage/admin/templates/css/newstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/manage/admin/templates/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/manage/admin/templates/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/manage/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/manage/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/message/admin/message_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/message/admin/message_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/message/admin/templates/batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/message/admin/templates/batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/message/admin/templates/js/product_index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/message/admin/templates/js/product_index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/message/admin/templates/product_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/message/admin/templates/product_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/message/admin/templates/product_para.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/message/admin/templates/product_para.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/message/admin/templates/set.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/message/admin/templates/set.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/message/web/message.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/message/web/message.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/myapp/admin/myapp.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/myapp/admin/myapp.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/myapp/admin/templates/myapp.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/myapp/admin/templates/myapp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/myapp/include/class/getapp.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/myapp/include/class/getapp.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/news/admin/news_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/news/admin/news_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/news/admin/templates/article_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/news/admin/templates/article_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/news/admin/templates/batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/news/admin/templates/batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/news/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/news/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/news/admin/templates/mod_batchoption.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/news/admin/templates/mod_batchoption.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/news/admin/templates/product_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/news/admin/templates/product_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/news/admin/templates/product_para.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/news/admin/templates/product_para.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/news/include/class/news_database.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/news/include/class/news_database.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/news/include/class/news_handle.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/news/include/class/news_handle.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/news/include/class/news_label.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/news/include/class/news_label.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/news/include/class/news_tag.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/news/include/class/news_tag.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/news/web/news.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/news/web/news.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/online/admin/online.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/online/admin/online.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/online/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/online/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/online/admin/templates/onlinelist.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/online/admin/templates/onlinelist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/online/admin/templates/setonline.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/online/admin/templates/setonline.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/online/web/online.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/online/web/online.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/parameter/admin/parameter_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/parameter/admin/parameter_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/parameter/admin/templates/js/product_para.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/parameter/admin/templates/js/product_para.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/parameter/admin/templates/product_para.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/parameter/admin/templates/product_para.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/parameter/include/class/parameter_database.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/parameter/include/class/parameter_database.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/parameter/include/class/parameter_handle.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/parameter/include/class/parameter_handle.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/parameter/include/class/parameter_label.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/parameter/include/class/parameter_label.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/parameter/include/class/parameter_list_database.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/parameter/include/class/parameter_list_database.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/parameter/include/class/parameter_op.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/parameter/include/class/parameter_op.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/product/admin/product_admin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/product/admin/product_admin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/product/admin/templates/css/metinfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/product/admin/templates/css/metinfo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/product/admin/templates/js/product_index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/product/admin/templates/js/product_index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/product/admin/templates/js/product_para.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/product/admin/templates/js/product_para.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/product/admin/templates/product_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/product/admin/templates/product_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/product/include/class/product_database.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/product/include/class/product_database.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/product/include/class/product_handle.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/product/include/class/product_handle.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/product/include/class/product_label.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/product/include/class/product_label.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/product/web/product.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/product/web/product.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/recycle/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/recycle/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/safe/admin/index.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/safe/admin/index.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/safe/admin/templates/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/safe/admin/templates/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/search/include/class/search_label.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/search/include/class/search_label.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/search/web/search.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/search/web/search.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/seo/admin/seo.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/seo/admin/seo.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/seo/admin/templates/anchor.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/seo/admin/templates/anchor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/seo/admin/templates/sitemap.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/seo/admin/templates/sitemap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/seo/admin/templates/url.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/seo/admin/templates/url.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/system/admin/authcode.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/system/admin/authcode.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/system/admin/download.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/system/admin/download.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/system/admin/news.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/system/admin/news.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/theme/admin/templates/css/metinfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/theme/admin/templates/css/metinfo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/theme/admin/templates/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/theme/admin/templates/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/theme/admin/templates/js/func.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/theme/admin/templates/js/func.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/theme/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/theme/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/theme/admin/templates/oldpage.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/theme/admin/templates/oldpage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/theme/admin/theme.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/theme/admin/theme.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/theme/include/class/skinc.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/theme/include/class/skinc.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/admin/index.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/admin/index.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/admin/templates/css/metinfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/admin/templates/css/metinfo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/admin/templates/js/set.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/admin/templates/js/set.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/admin/templates/pageset/cache/pageset.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/admin/templates/pageset/cache/pageset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/admin/templates/pageset/cache/pageset.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/admin/templates/pageset/cache/pageset.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/admin/templates/pageset/version.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/admin/templates/pageset/version.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/admin/templates/public.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/admin/templates/public.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/admin/templates/set_icon.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/admin/templates/set_icon.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/admin/templates/set_img.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/admin/templates/set_img.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/admin/templates/set_pageset_nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/admin/templates/set_pageset_nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/admin/templates/ui_zujian.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/admin/templates/ui_zujian.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/include/class/config_tem.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/include/class/config_tem.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/include/class/config_ui.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/include/class/config_ui.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/update/admin/about.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/update/admin/about.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/update/admin/templates/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/update/admin/templates/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/update/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/update/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/admin/admin_group.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/admin/admin_group.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/admin/admin_set.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/admin/admin_set.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/admin/admin_user.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/admin/admin_user.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/admin/templates/email.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/admin/templates/email.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/admin/templates/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/admin/templates/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/admin/templates/open.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/admin/templates/open.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/admin/templates/user_add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/admin/templates/user_add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/admin/templates/user_editor.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/admin/templates/user_editor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/admin/templates/user_field.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/admin/templates/user_field.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/admin/templates/user_group.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/admin/templates/user_group.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/admin/templates/user_index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/admin/templates/user_index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/admin/templates/user_set.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/admin/templates/user_set.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/include/class/sys_group.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/include/class/sys_group.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/include/class/sys_user.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/include/class/sys_user.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/include/class/user_nav.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/include/class/user_nav.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/include/class/user_url.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/include/class/user_url.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/class/qq.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/class/qq.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/class/userweb.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/class/userweb.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/class/valid.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/class/valid.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/class/weibo.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/class/weibo.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/class/weixin.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/class/weixin.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/getpassword.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/getpassword.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/login.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/login.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/profile.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/profile.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/register.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/register.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/css/metinfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/css/metinfo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/getpassword.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/getpassword.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/getpassword_mailset.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/getpassword_mailset.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/getpassword_telset.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/getpassword_telset.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/js/own.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/js/own.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/other_info.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/other_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/profile_emailedit.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/profile_emailedit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/profile_index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/profile_index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/profile_safety.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/profile_safety.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/register_email.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/register_email.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/register_ord.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/register_ord.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/register_phone.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/register_phone.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/valid_admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/valid_admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/user/web/templates/met/valid_email.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/user/web/templates/met/valid_email.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/webset/admin/templates/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/webset/admin/templates/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/webset/admin/webset.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/webset/admin/webset.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/lang_json_admin_cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/cache/lang_json_admin_cn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/lang_json_admin_cn.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/lang_json_admin_cn.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/lang_json_cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/cache/lang_json_cn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/lang_json_cn.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/lang_json_cn.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/str_.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_0b0faed7.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_0c61776c.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_11514b93.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_1b779b94.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_3c3531f1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_3e82a917.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_79742c5e.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_8b09f811.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_91087731.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_9693f01a.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_b42c3a46.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_dcb43d70.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_e478bf1c.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_f61499df.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_fb4ea7f4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/global.func.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/global.func.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/stat/global.func.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/stat/global.func.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/cn.sql" beforeDir="false" afterPath="$PROJECT_DIR$/install/cn.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/cn_config.sql" beforeDir="false" afterPath="$PROJECT_DIR$/install/cn_config.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/css/metinfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/install/css/metinfo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/en.sql" beforeDir="false" afterPath="$PROJECT_DIR$/install/en.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/en_config.sql" beforeDir="false" afterPath="$PROJECT_DIR$/install/en_config.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/install/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/js/install.js" beforeDir="false" afterPath="$PROJECT_DIR$/install/js/install.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/lang.sql" beforeDir="false" afterPath="$PROJECT_DIR$/install/lang.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/sql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/install/sql.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/templates/adminsetup.htm" beforeDir="false" afterPath="$PROJECT_DIR$/install/templates/adminsetup.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/templates/databasesetup.htm" beforeDir="false" afterPath="$PROJECT_DIR$/install/templates/databasesetup.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/templates/finished.htm" beforeDir="false" afterPath="$PROJECT_DIR$/install/templates/finished.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/templates/header.htm" beforeDir="false" afterPath="$PROJECT_DIR$/install/templates/header.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/templates/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/install/templates/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/templates/inspect.htm" beforeDir="false" afterPath="$PROJECT_DIR$/install/templates/inspect.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install/templates/license.htm" beforeDir="false" afterPath="$PROJECT_DIR$/install/templates/license.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/member/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/member/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/online/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/banner/banner6/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/banner/banner6/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/banner/banner6/jquery.bxSlider.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/banner/banner6/jquery.bxSlider.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/online.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/online.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/php/methtml.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/php/methtml.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/php/metlabel.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/php/metlabel.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v1/js/effects/online/online.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v1/js/effects/online/online.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/module/ajax/download.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/module/ajax/download.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/module/ajax/img.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/module/ajax/img.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/module/ajax/news.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/module/ajax/news.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/module/ajax/product.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/module/ajax/product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/module/ajax/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/module/ajax/search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/css/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/css/basic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/js/basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/js/basic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/js/datatable.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/js/datatable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/js/editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/js/editor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/js/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/js/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/js/img_slick.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/js/img_slick.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/js/ini.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/js/ini.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/js/job.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/js/job.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/js/lteie9.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/js/lteie9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/js/news.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/js/news.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/js/pager.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/js/pager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/js/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/js/product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/js/sys.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/js/sys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/library.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/library.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/metuipack.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/metuipack.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/plugin/PhotoSwipe/photoswipe.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/plugin/PhotoSwipe/photoswipe.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ui/v2/static/plugin/jquery.lazyload.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/ui/v2/static/plugin/jquery.lazyload.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/index_cn.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/m1156ui009/cache/index_cn.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/index_cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/m1156ui009/cache/index_cn.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/m1156ui009/shotcut.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/m1156ui009/shotcut.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/404.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/ajax/img.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/ajax/img.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/ajax/news.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/ajax/news.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/ajax/product.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/ajax/product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/ajax/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/ajax/search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/download.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/download.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/feedback.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/feedback.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/foot.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/foot.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/head.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/img.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/img.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/install/install.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/install/install.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/install/template.json" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/install/template.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/job.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/job.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/message_index.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/message_index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/news.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/news.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/position.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/position.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/product.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/showdownload.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/showdownload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/showimg.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/showimg.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/showjob.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/showjob.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/shownews.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/shownews.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/showproduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/showproduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/sitemap.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/sitemap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/static/metinfo.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/static/metinfo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/static/metinfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/static/metinfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/metv6/subcolumn_nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/metv6/subcolumn_nav.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,34 +470,59 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="oy_ds@localhost" type="feb32156:DbDataSourceImpl" />
       </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="oy_ds@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="oy_ds@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="oy_ds: schema" type="c314c289:MysqlImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="oy_ds@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="oy_ds: schema" type="c314c289:MysqlImplModel$Schema" />
-        <item name="oyds_admin_nav: table" type="98d5ac3d:MysqlImplModel$Table" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="shotcut.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shotcut.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/m1156ui009/shotcut.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
-              <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+            <state relative-caret-position="224">
+              <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="foot.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/system/include/public/ui/web/foot.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="head.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/system/include/public/ui/web/head.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lang_json_admin_cn.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cache/lang_json_admin_cn.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret column="10219" selection-start-column="10219" selection-end-column="10219" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#a#0;n#strong#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#a#0;n#strong#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#a#0;n#strong#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#span#0;n#a#0;n#strong#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#span#0;n#span#0;n#a#0;n#strong#0;n#!!top" expanded="true" />
+                <element signature="e#69540#69544#0#HTML" expanded="true" />
+                <element signature="e#69550#69554#0#HTML" expanded="true" />
+                <element signature="e#69582#69586#0#HTML" expanded="true" />
+                <element signature="e#69592#69596#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="box.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/system/include/public/ui/admin/box.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="83" column="64" selection-start-line="83" selection-start-column="64" selection-end-line="83" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -91,6 +554,9 @@
       <find>传统后台</find>
       <find>oldBackstage</find>
       <find>baidu</find>
+      <find>&lt;li&gt;{$adminnav[$adminnav[$_M['form']['anyid']]['bigclass']]['name']}&lt;/li&gt;</find>
+      <find>background_page</find>
+      <find>后台首页</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -102,7 +568,6 @@
         <option value="$PROJECT_DIR$/templates/m1156ui009/index.php" />
         <option value="$PROJECT_DIR$/admin_oyds/old_head.php" />
         <option value="$PROJECT_DIR$/app/system/admin/admin/admin_admin.class.php" />
-        <option value="$PROJECT_DIR$/app/system/include/public/ui/admin/box.php" />
         <option value="$PROJECT_DIR$/admin_oyds/navigation/page/db.php" />
         <option value="$PROJECT_DIR$/admin_oyds/navigation/page/deleteNav.php" />
         <option value="$PROJECT_DIR$/admin_oyds/navigation/page/insert_nav.php" />
@@ -111,6 +576,8 @@
         <option value="$PROJECT_DIR$/admin_oyds/navigation/page/update_title.php" />
         <option value="$PROJECT_DIR$/admin_oyds/navigation/page/index.php" />
         <option value="$PROJECT_DIR$/templates/m1156ui009/shotcut.php" />
+        <option value="$PROJECT_DIR$/admin_oyds/update/cms/new/file/v6.1.0/file/app/system/include/public/ui/admin/box.php" />
+        <option value="$PROJECT_DIR$/app/system/include/public/ui/admin/box.php" />
       </list>
     </option>
   </component>
@@ -163,22 +630,6 @@
               <item name="navigation" type="462c0819:PsiDirectoryNode" />
               <item name="page" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="WWW" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WWW" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WWW" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WWW" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WWW" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WWW" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="m1156ui009" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -228,25 +679,28 @@
       <workItem from="1532608822422" duration="3537000" />
       <workItem from="1532694002349" duration="5047000" />
       <workItem from="1532823767198" duration="901000" />
+      <workItem from="1532876225621" duration="618000" />
+      <workItem from="1532877459915" duration="1315000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35010000" />
+    <option name="totallyTimeSpent" value="36943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16756032" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="right" id="Database" order="3" visible="true" weight="0.1769437" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15147454" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.1769437" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -256,7 +710,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Database Console" order="8" weight="0.104136944" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
@@ -287,20 +740,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/admin_oyds/admin/ajax.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-501" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_oyds/admin/delete.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_oyds/admin/editor.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_oyds/admin/editor_pass.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin_oyds/admin/getpassword.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -316,13 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cache/lang_json_admin_cn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret column="69890" lean-forward="true" selection-start-column="69890" selection-end-column="69890" />
         </state>
       </provider>
     </entry>
@@ -360,13 +792,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin_oyds/navigation/static/layui.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/system/include/public/ui/admin/box.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin_oyds/old_head.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -571,10 +996,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/system/include/public/ui/admin/head_v2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/m1156ui009/shotcut.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        <state relative-caret-position="224">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/system/include/public/ui/web/foot.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/system/include/public/ui/web/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/lang_json_admin_cn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret column="10219" selection-start-column="10219" selection-end-column="10219" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#a#0;n#strong#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#a#0;n#strong#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#a#0;n#strong#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#span#0;n#a#0;n#strong#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#span#0;n#span#0;n#span#0;n#span#0;n#a#0;n#strong#0;n#!!top" expanded="true" />
+            <element signature="e#69540#69544#0#HTML" expanded="true" />
+            <element signature="e#69550#69554#0#HTML" expanded="true" />
+            <element signature="e#69582#69586#0#HTML" expanded="true" />
+            <element signature="e#69592#69596#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_oyds/update/cms/new/file/v6.1.0/file/app/system/include/public/ui/admin/box.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/system/include/public/ui/admin/box.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="83" column="64" selection-start-line="83" selection-start-column="64" selection-end-line="83" selection-end-column="64" />
         </state>
       </provider>
     </entry>
