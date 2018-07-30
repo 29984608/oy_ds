@@ -8,6 +8,7 @@ $rs_nav = $conn->query($query_nav);
  while ($row_title = $rs_title->fetch_assoc()) {
      $title = $row_title['name'];
  }
+$conn->close();
 ?>
 <!DOCTYPE html>
 <html>

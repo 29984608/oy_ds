@@ -1466,8 +1466,13 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("连接失败: " . $conn->connect_error);
 }
-$sql = "select * from oyds_admin_nav";
-$rs = $conn->query($sql);
+$sql_nav = "select * from oyds_admin_nav";
+$sql_title = "select name from oyds_column where id=177";
+$rsNav = $conn->query($sql_nav);
+$rsTitle = $conn->query($sql_title);
+while ($rowTitle = $rsTitle->fetch_assoc()) {
+    $titleName = $rowTitle['name'];
+}
 ?>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="../../app/system/include/public/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -1503,7 +1508,7 @@ $rs = $conn->query($sql);
 
 <div class="container" id="shotcut" m-id="{shotcut}" data-title="<?php echo $ui['bgtitle'];?>">
 	<div class="row  ">
-    	<h2>快捷导航</h2>
+    	<h2><?php echo $titleName?></h2>
         <h3 >____</h3>
         <br />
     </div>
@@ -1513,9 +1518,9 @@ $rs = $conn->query($sql);
     </li>-->
 	<div class="row  ">
         <?php
-        while ($row = $rs->fetch_assoc()) {
+        while ($rowNav = $rsNav->fetch_assoc()) {
             ?>
-            <div class="col-md-1 col-sm-3 col-xs-6 divheight"><a href="<?php echo $row['nav_url']?>"><i class=" <?php echo $row['nav_icon'] ?> faa-slow faa-shake animated-hover fa-3x"></i></a><br /><a href="<?php echo $row['nav_url']?>"><?php echo $row['nav_title']?></a></div>
+            <div class="col-md-1 col-sm-3 col-xs-6 divheight"><a href="<?php echo $rowNav['nav_url']?>"><i class=" <?php echo $rowNav['nav_icon'] ?> faa-slow faa-shake animated-hover fa-3x"></i></a><br /><a href="<?php echo $rowNav['nav_url']?>"><?php echo $rowNav['nav_title']?></a></div>
             <!-- <div class="col-md-1 col-sm-3 col-xs-6 divheight"><a href="#"><i class=" fa-calendar faa-slow faa-shake animated-hover fa-3x"></i></a><br /><a href="#">课程中心</a></div>
              <div class="col-md-1 col-sm-3 col-xs-6 divheight"><a href="#"><i class=" fa-group faa-slow faa-shake animated-hover fa-3x"></i></a><br /><a href="#">服务团队</a></div>
              <div class="col-md-1 col-sm-3 col-xs-6 divheight"><a href="#"><i class=" fa-barcode faa-slow faa-shake animated-hover fa-3x"></i></a><br /><a href="#">营销优惠</a></div>
