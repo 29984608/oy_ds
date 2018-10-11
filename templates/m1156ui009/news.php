@@ -3,3 +3,4 @@
 <ui name="subcolumn_nav" style="met_m1156_4" id="24" />
 <ui name="news_list_page" style="met_m1156_4" id="10" />
 <include file="foot.php" />
+

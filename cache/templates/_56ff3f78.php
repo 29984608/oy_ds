@@ -16,6 +16,7 @@ $rsTitle = $conn->query($sql_title);
 while ($rowTitle = $rsTitle->fetch_assoc()) {
     $titleName = $rowTitle['name'];
 }
+$conn->close();
 ?>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="../../app/system/include/public/bootstrap/css/bootstrap.min.css" rel="stylesheet">
