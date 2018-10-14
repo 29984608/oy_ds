@@ -1,5 +1,6 @@
 <?php
 require_once("db.php");
+header("Content-type: text/html; charset=utf-8");
 $query_title = "select name from oyds_column where id=177";
 $query_nav = "select * from oyds_admin_nav";
 $query_Count = "select count(*) from oyds_admin_nav";

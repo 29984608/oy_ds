@@ -1,41 +1,182 @@
-$uicss{background:$bodybgcolor$; background:$bgcolor$; position:relative; background-position:top center; background-size:cover; text-align:center;
-padding:$paddinglg$px 0;} 
-@media(max-width:1199px){
-$uicss{padding:$paddingsm$px 0;} }
-@media(max-width:767px){
-$uicss{padding:$paddingxs$px 0;} }
- 
-$uicss .news-box{position:relative;}
-$uicss .news-box h2.h2{display:block; margin:15px 0 0 0; line-height:1;  color:$firstcolor$; color:$titlecolor$;}
-$uicss .news-box h2.h2 + span{border:1px solid $firstcolor$; border-color:$titlecolor$; height:0; 
-line-height:0; width:40px; display:block; margin:40px auto;}
-@media(max-width:1199px){
-$uicss .news-box h2.h2 + span{margin:30px auto;} }
-@media(max-width:767px){
-$uicss .news-box h2.h2 + span{margin:20px auto;} }
+$
+uicss {
+    background: $ bodybgcolor $;
+    background: $ bgcolor $;
+    position: relative;
+    background-position: top center;
+    background-size: cover;
+    text-align: center;
+    padding: $ paddinglg $ px 0;
+}
 
- 
-$uicss .info-list{line-height:2; text-align:left;}
-$uicss .info-list li {max-width:100%;}
-$uicss .info-list img{display:block; padding:15px 0; width:100%;}
-$uicss .info-list strong{display:block; font-size:16px; color:$firstcolor$; color:$titlecolor$; 
-white-space:nowrap; text-overflow:ellipsis; overflow:hidden;}
-$uicss .info-list a:hover{text-decoration:none;}
-$uicss .info-list a:hover strong{color:$thirdcolor$; color:$hovercolor$;}
-$uicss .info-list font{display:block; color:$secondcolor$; color:$desccolor$; padding:0 0 15px 0;}
-$uicss .info-list p{display:block; color:$secondcolor$; color:$desccolor$; max-height:112px; overflow:hidden;
-display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:4;}
-$uicss .info-list span{display:block; color:$secondcolor$; color:$desccolor$; margin-top:20px; font-size:12px;}
-$uicss .info-list span a{display:inline; color:$secondcolor$; color:$desccolor$; font-size:12px; padding-left:5px;}
-$uicss .info-list span a:hover{color:$thirdcolor$; color:$hovercolor$;}
- 
+@media (max-width: 1199px) {
+$uicss {
+    padding: $ paddingsm $ px 0;
+}
+}
 
-$uicss .news-button{border:1px solid $desccolor$; border-color:$bordercolor$; color:$secondcolor$; color:$desccolor$;
-padding:7px 28px; margin-top:$paddinglg$px; display:inline-block; 
--webkit-transition:.5s; -ms-transition:.5s; transition:.5s;}
-@media(max-width:1199px){
-$uicss .news-button{margin-top:$paddingsm$px;} }
-@media(max-width:767px){
-$uicss .news-button{margin-top:$paddingxs$px;} }
-$uicss .news-button:hover{background:$thirdcolor$; background:$hovercolor$; border-color:$thirdcolor$; border-color:$hovercolor$; color:$focuscolor$; 
-text-decoration:none; -webkit-transition:.5s; -ms-transition:.5s; transition:.5s; }
+@media (max-width: 767px) {
+$uicss {
+    padding: $ paddingxs $ px 0;
+}
+}
+
+$
+uicss .news-box {
+    position: relative;
+}
+
+$
+uicss .news-box h2.h2 {
+    display: block;
+    margin: 15px 0 0 0;
+    line-height: 1;
+    color: $ firstcolor $;
+    color: $ titlecolor $;
+}
+
+$
+uicss .news-box h2.h2 + span {
+    border: 1px solid $ firstcolor $;
+    border-color: $ titlecolor $;
+    height: 0;
+    line-height: 0;
+    width: 40px;
+    display: block;
+    margin: 40px auto;
+}
+
+@media (max-width: 1199px) {
+$uicss .news-box h2.h2 + span {
+    margin: 30px auto;
+}
+}
+
+@media (max-width: 767px) {
+$uicss .news-box h2.h2 + span {
+    margin: 20px auto;
+}
+}
+
+$
+uicss .info-list {
+    line-height: 2;
+    text-align: left;
+}
+
+$
+uicss .info-list li {
+    max-width: 100%;
+}
+
+$
+uicss .info-list img {
+    display: block;
+    padding: 15px 0;
+    width: 100%;
+}
+
+$
+uicss .info-list strong {
+    display: block;
+    font-size: 16px;
+    color: $ firstcolor $;
+    color: $ titlecolor $;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+$
+uicss .info-list a:hover {
+    text-decoration: none;
+}
+
+$
+uicss .info-list a:hover strong {
+    color: $ thirdcolor $;
+    color: $ hovercolor $;
+}
+
+$
+uicss .info-list font {
+    display: block;
+    color: $ secondcolor $;
+    color: $ desccolor $;
+    padding: 0 0 15px 0;
+}
+
+$
+uicss .info-list p {
+    display: block;
+    color: $ secondcolor $;
+    color: $ desccolor $;
+    max-height: 112px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+}
+
+$
+uicss .info-list span {
+    display: block;
+    color: $ secondcolor $;
+    color: $ desccolor $;
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+$
+uicss .info-list span a {
+    display: inline;
+    color: $ secondcolor $;
+    color: $ desccolor $;
+    font-size: 12px;
+    padding-left: 5px;
+}
+
+$
+uicss .info-list span a:hover {
+    color: $ thirdcolor $;
+    color: $ hovercolor $;
+}
+
+$
+uicss .news-button {
+    border: 1px solid $ desccolor $;
+    border-color: $ bordercolor $;
+    color: $ secondcolor $;
+    color: $ desccolor $;
+    padding: 7px 28px;
+    margin-top: $ paddinglg $ px;
+    display: inline-block;
+    -webkit-transition: .5s;
+    -ms-transition: .5s;
+    transition: .5s;
+}
+
+@media (max-width: 1199px) {
+$uicss .news-button {
+    margin-top: $ paddingsm $ px;
+}
+}
+
+@media (max-width: 767px) {
+$uicss .news-button {
+    margin-top: $ paddingxs $ px;
+}
+}
+
+$
+uicss .news-button:hover {
+    background: $ thirdcolor $;
+    background: $ hovercolor $;
+    border-color: $ thirdcolor $;
+    border-color: $ hovercolor $;
+    color: $ focuscolor $;
+    text-decoration: none;
+    -webkit-transition: .5s;
+    -ms-transition: .5s;
+    transition: .5s;
+}

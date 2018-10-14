@@ -2,316 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d8eabcf-39d0-466f-8413-c1605801538b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/css/layui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/css/layui.mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/css/modules/code.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/css/modules/laydate/default/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/css/modules/layer/default/icon-ext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/css/modules/layer/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/css/modules/layer/default/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/css/modules/layer/default/loading-0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/css/modules/layer/default/loading-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/css/modules/layer/default/loading-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/font/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/font/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/font/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/font/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/13.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/14.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/17.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/18.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/19.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/20.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/21.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/22.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/23.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/24.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/25.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/26.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/27.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/28.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/29.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/30.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/31.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/32.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/33.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/34.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/35.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/36.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/37.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/38.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/39.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/40.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/41.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/42.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/43.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/44.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/45.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/46.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/47.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/48.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/49.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/50.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/51.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/52.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/53.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/54.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/55.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/56.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/57.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/58.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/59.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/60.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/61.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/62.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/63.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/64.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/65.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/66.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/67.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/68.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/69.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/70.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/71.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/images/face/9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/element.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/flow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/laydate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/layedit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/laypage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/laytpl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/mobile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/rate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/upload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/lay/modules/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/layui.all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/m1156ui009/static/layui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WWW.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WWW.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/99693331-1edd-4485-8dae-9fb7a1c740e8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/column.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/column.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/_0808f6ed.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/templates/_0808f6ed.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/_273c1d9c.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/_56ff3f78.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/templates/_56ff3f78.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_oyds/navigation/page/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin_oyds/navigation/page/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/admin/templates/cache/pageset.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/admin/templates/cache/pageset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/admin/templates/cache/pageset.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/admin/templates/cache/pageset.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/system/ui_set/admin/templates/version.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/system/ui_set/admin/templates/version.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/online_cn.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/online_cn.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_0808f6ed.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_0972e2c6.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_2a7db46d.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_317d8069.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/templates/_317d8069.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_3cef516e.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_56ff3f78.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cache/templates/_573996af.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/templates/_573996af.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/_adc9963f.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/templates/_adc9963f.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/_b3ca717d.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_66978aac.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_6d7d42af.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_8516effd.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/templates/_8516effd.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_8e6e1b05.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_99a0eb78.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_9bcbaa45.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_a599db90.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_adc9963f.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_c0d27242.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/templates/_ceb5851f.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cache/templates/_d28b9654.php" beforeDir="false" afterPath="$PROJECT_DIR$/cache/templates/_d28b9654.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/m1156ui009_2_cn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/m1156ui009_32_cn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/m1156ui009_35_cn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/m1156ui009_36_cn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/m1156ui009_37_cn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/m1156ui009_38_cn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/m1156ui009_39_cn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/m1156ui009_40_cn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/m1156ui009_41_cn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/m1156ui009_42_cn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/m1156ui009_43_cn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/public_config_cn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cache/templates/tem_config_cn.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/feedback_cn.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/feedback_cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/img.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/img.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/img_cn.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/img_cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/job_cn.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/job_cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/message_index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/message_index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/message_index_cn.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/message_index_cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/news.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/news.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/news_cn.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/news_cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/product.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/product.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/product_cn.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/product_cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/search.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/show.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/show.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/show_cn.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/show_cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/showimg.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/showimg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/shownews.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/shownews.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/shownews_cn.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/shownews_cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/showproduct.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/showproduct.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/showproduct_cn.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/showproduct_cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/news.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/m1156ui009/news.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/index_cn.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/m1156ui009/cache/index_cn.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/cache/index_cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/m1156ui009/cache/index_cn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/static/css/layui.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/m1156ui009/static/css/layui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/200_100/1468307527675297.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/200_100/1468308011101580.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/200_100/1468308663100221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/200_100/1468311719109132.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/200_100/1468311919309828.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/200_100/1468312144140292.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/200_100/metinfo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/300_200/1468308663100221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/300_200/metinfo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/320_180/1468307527675297.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/320_180/1468308011101580.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/320_180/1468308663100221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/320_180/1468311719109132.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/320_180/1468311919309828.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/320_180/1468312144140292.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/320_180/1468312291108612.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/320_180/1468388024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/320_180/1528966673.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/320_180/1531474386.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/320_180/1531474802.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/320_180/1531474804.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/320_180/1531703785.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/320_180/metinfo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468382967.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468383410.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468383602.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468384018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468384162.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468384424.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468384525.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468384529.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468384542.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468384560.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468384614.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468384681.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468384740.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468385095.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468387434.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468387445.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468387473.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468387505.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468387516.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468387698.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468387703.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468387768.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468387803.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468387931.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468387940.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468388024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468388172.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468388267.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/34_34/1468388322.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_150/1468308663100221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_150/metinfo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1467882284110875.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1467882284116852.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1467882284201603.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1467882284225099.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1467882284683215.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1467882284692381.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1467882284870963.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1467882284934736.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1467882285279405.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1467882285645304.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1467882285941105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1467883017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1468239291.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1468239734.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1468307527675297.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1468308663100221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1468331036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1468337334.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1468337692.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1528966673.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1531460478.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1531474386.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1531704033.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1531704542.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_250/1468308663100221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_250/1528966673.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_250/1531460478.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_250/1531474386.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_250/1531704033.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_250/1531704542.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_250/metinfo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468382967.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468383410.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468383602.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468384018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468384162.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468384424.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468384525.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468384529.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468384542.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468384560.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468384614.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468384681.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468384740.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468385095.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468387434.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468387445.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468387473.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468387505.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468387516.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468387698.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468387703.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468387768.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468387803.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468387931.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468387940.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468388024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468388172.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468388267.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_300/1468388322.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_400/1468387505.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_400/1468388024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/450_320/1468382967.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/450_320/1468383410.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/450_320/1468383602.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/450_320/1468384018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/450_320/1468384162.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/450_320/1468384424.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/450_320/1468384525.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/450_320/1468384529.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/450_320/1468384542.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/450_320/1468384560.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/450_320/1468384614.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/450_320/1468384681.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/450_320/1468384740.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/450_320/1468385095.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/50_50/1468307527675297.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/50_50/1468308011101580.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/50_50/1468308663100221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/50_50/1468312144140292.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/50_50/1468383410.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/50_50/1528966673.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/50_50/1531474804.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/50_50/metinfo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/640_451/1468383410.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/640_451/1468384424.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/640_451/1468384560.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload/thumb_src/640_451/1468384740.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1468308011101580.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1468312144140292.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/1468388024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/thumb_src/400_235/metinfo.gif" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -347,72 +77,68 @@
         <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
         <item name="oy_ds: schema" type="c314c289:MysqlImplModel$Schema" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="oy_ds@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="oy_ds: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="oyds_news: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
     </expand>
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-              <folding>
-                <element signature="n#style#0;n#section#1;n#if#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="oyds_news" pinned="false" current-in-tab="false">
-        <entry file="das://99693331-1edd-4485-8dae-9fb7a1c740e8/schema/oy_ds/table/oyds_news">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
+            <state relative-caret-position="336">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/news_list_detail/met_m1156_4/index.php">
+        <entry file="file://$PROJECT_DIR$/admin_oyds/navigation/page/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1456">
-              <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+            <state relative-caret-position="56">
+              <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/news_list_page/met_m1156_4/index.php">
+      <file leaf-file-name="db.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin_oyds/navigation/page/db.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2324">
-              <caret line="83" column="40" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
+            <state relative-caret-position="308">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insert_nav.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin_oyds/navigation/page/insert_nav.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deleteNav.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin_oyds/navigation/page/deleteNav.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>/about/show.php?id=103</find>
-      <find>class=&quot;container new now set&quot;</find>
-      <find>shotcut</find>
-      <find>href=&quot;http://localhost/admin_oyds/index.php?n=content&amp;c=content&amp;a=doadd&amp;anyid=68&amp;lang=cn&quot;</find>
-      <find>营销</find>
-      <find>MetInfo企业网站管理系统</find>
-      <find>lang_json_admin_cn</find>
-      <find>id=&quot;metinfo_metnav_68&quot;</find>
-      <find>传统</find>
-      <find>dlapptips2</find>
-      <find>$list['name']</find>
-      <find>传统后台</find>
-      <find>oldBackstage</find>
-      <find>baidu</find>
-      <find>&lt;li&gt;{$adminnav[$adminnav[$_M['form']['anyid']]['bigclass']]['name']}&lt;/li&gt;</find>
-      <find>background_page</find>
-      <find>后台首页</find>
-      <find>solid</find>
+      <find>jquery</find>
+      <find>.a</find>
+      <find>span</find>
+      <find>a</find>
+      <find>.layui-btn,</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -421,22 +147,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/admin_oyds/old_head.php" />
-        <option value="$PROJECT_DIR$/app/system/admin/admin/admin_admin.class.php" />
-        <option value="$PROJECT_DIR$/admin_oyds/navigation/page/db.php" />
-        <option value="$PROJECT_DIR$/admin_oyds/navigation/page/deleteNav.php" />
-        <option value="$PROJECT_DIR$/admin_oyds/navigation/page/insert_nav.php" />
-        <option value="$PROJECT_DIR$/admin_oyds/navigation/page/queryInfo.php" />
-        <option value="$PROJECT_DIR$/admin_oyds/navigation/page/update_nav.php" />
-        <option value="$PROJECT_DIR$/admin_oyds/navigation/page/update_title.php" />
-        <option value="$PROJECT_DIR$/admin_oyds/update/cms/new/file/v6.1.0/file/app/system/include/public/ui/admin/box.php" />
-        <option value="$PROJECT_DIR$/app/system/include/public/ui/admin/box.php" />
-        <option value="$PROJECT_DIR$/templates/m1156ui009/shotcut.php" />
+        <option value="$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/index.css" />
+        <option value="$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/js/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/templates/m1156ui009/static/css/layui.css" />
         <option value="$PROJECT_DIR$/admin_oyds/navigation/page/index.php" />
-        <option value="$PROJECT_DIR$/templates/m1156ui009/newlist.php" />
-        <option value="$PROJECT_DIR$/templates/m1156ui009/news.php" />
-        <option value="$PROJECT_DIR$/templates/m1156ui009/index.php" />
-        <option value="$PROJECT_DIR$/templates/m1156ui009/newslist.php" />
         <option value="$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/index.php" />
       </list>
     </option>
@@ -475,6 +190,24 @@
             <path>
               <item name="WWW" type="b2602c69:ProjectViewProjectNode" />
               <item name="WWW" type="462c0819:PsiDirectoryNode" />
+              <item name="admin_oyds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WWW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WWW" type="462c0819:PsiDirectoryNode" />
+              <item name="admin_oyds" type="462c0819:PsiDirectoryNode" />
+              <item name="navigation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WWW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WWW" type="462c0819:PsiDirectoryNode" />
+              <item name="admin_oyds" type="462c0819:PsiDirectoryNode" />
+              <item name="navigation" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WWW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WWW" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -489,14 +222,6 @@
               <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="m1156ui009" type="462c0819:PsiDirectoryNode" />
               <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WWW" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WWW" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="m1156ui009" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="message" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WWW" type="b2602c69:ProjectViewProjectNode" />
@@ -515,16 +240,6 @@
               <item name="news_list" type="462c0819:PsiDirectoryNode" />
               <item name="met_m1156_6" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="WWW" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WWW" type="462c0819:PsiDirectoryNode" />
-              <item name="usercenter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WWW" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WWW" type="462c0819:PsiDirectoryNode" />
-              <item name="worktime" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -536,15 +251,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\phpStudy\PHPTutorial\WWW\templates\m1156ui009\bootstrap" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\phpStudy\PHPTutorial\WWW\templates\m1156ui009" />
-      <recent name="D:\phpStudy\PHPTutorial\WWW\admin_oyds\navigation\static" />
-      <recent name="D:\phpStudy\PHPTutorial\WWW\admin_oyds\navigation" />
+      <recent name="D:\phpStudy\PHPTutorial\WWW\templates\m1156ui009\ui\news_list\met_m1156_6" />
+      <recent name="E:\phpStudy\PHPTutorial\WWW\templates\m1156ui009\ui\news_list\met_m1156_6" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -565,76 +281,60 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="5d8eabcf-39d0-466f-8413-c1605801538b" name="Default" comment="" />
-      <created>1532325335028</created>
+      <created>1539412067517</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1532325335028</updated>
-      <workItem from="1532325340807" duration="17653000" />
-      <workItem from="1532433628704" duration="3881000" />
-      <workItem from="1532519652377" duration="3991000" />
-      <workItem from="1532608822422" duration="3537000" />
-      <workItem from="1532694002349" duration="5047000" />
-      <workItem from="1532823767198" duration="901000" />
-      <workItem from="1532876225621" duration="618000" />
-      <workItem from="1532877459915" duration="1315000" />
-      <workItem from="1532915355065" duration="612000" />
-      <workItem from="1532959306153" duration="20000" />
-      <workItem from="1532960383613" duration="852000" />
-      <workItem from="1537792944217" duration="1546000" />
-      <workItem from="1538999888874" duration="2745000" />
-      <workItem from="1539003272436" duration="1560000" />
-      <workItem from="1539005553507" duration="2392000" />
-      <workItem from="1539089797941" duration="3781000" />
-      <workItem from="1539175543787" duration="3310000" />
-      <workItem from="1539179612728" duration="141000" />
-      <workItem from="1539263487253" duration="1370000" />
+      <updated>1539412067517</updated>
+      <workItem from="1539412071527" duration="10676000" />
+      <workItem from="1539485118312" duration="2035000" />
+      <workItem from="1539506673721" duration="1645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55272000" />
+    <option name="totallyTimeSpent" value="20438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22319035" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.15884718" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24932976" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.117962465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Database Console" order="8" visible="true" weight="0.104136944" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.104136944" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952926" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21514745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" visible="true" weight="0.15884718" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Console" order="12" weight="0.104136944" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -648,99 +348,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/showproduct.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/sitemap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/showdownload.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/404.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/download.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/foot.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/head.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="56" selection-start-column="56" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/img.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/product.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/show.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/feedback.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_oyds/admin/delete.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-203" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_oyds/templates/met/getpassword.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2499" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_oyds/content/access.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/search.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_oyds/templates/met/admin/admin_add.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_oyds/templates/met/admin/admin_editor.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_oyds/templates/met/admin/admin_pass.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_oyds/templates/met/admin/admin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3997" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_oyds/templates/met/images/bg_column1.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin_oyds/templates/met/images/bg_column.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -769,25 +376,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin_oyds/navigation/page/db.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_oyds/navigation/page/deleteNav.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_oyds/navigation/page/insert_nav.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin_oyds/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1225" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/shotcut.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/m1156ui009/layui/layui.all.js" />
@@ -797,18 +388,8 @@
     <entry file="file://$PROJECT_DIR$/templates/m1156ui009/static/images/face/0.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/static/css/layui.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/m1156ui009/static/images/face/62.gif">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin_oyds/navigation/page/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="101" column="36" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/m1156ui009/newlist.php" />
     <entry file="file://$PROJECT_DIR$/templates/m1156ui009/index.php">
@@ -833,13 +414,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/m1156ui009/newslist.php" />
-    <entry file="das://99693331-1edd-4485-8dae-9fb7a1c740e8/schema/oy_ds/table/oyds_news">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://99693331-1edd-4485-8dae-9fb7a1c740e8/schema/oy_ds/table/oyds_news" />
     <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/img_list/met_m1156_6/index.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -850,13 +425,149 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/static/css/layui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="1495" column="28" lean-forward="true" selection-start-line="1495" selection-start-column="28" selection-end-line="1495" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/install.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1176" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-          <folding>
-            <element signature="n#style#0;n#section#1;n#if#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="413">
+          <caret line="130" column="36" lean-forward="true" selection-start-line="130" selection-start-column="36" selection-end-line="130" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/news_list_detail/met_m1156_4/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/news_list_page/met_m1156_4/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/news_list_page/met_m1156_4/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2324">
+          <caret line="83" column="40" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/message/met_m1156_4/install.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/message/met_m1156_4/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/product_list_detail/met_m1156_1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/bootstrap/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://99693331-1edd-4485-8dae-9fb7a1c740e8/schema/oy_ds/table/oyds_download" />
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/static/css/layui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="1810" column="1" selection-start-line="1810" selection-start-column="1" selection-end-line="1810" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/spot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/shotcut.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/85eac201-221e-4706-8ae8-72ad243b1703/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="1575" column="1" selection-start-line="1575" selection-start-column="1" selection-end-line="1575" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/bootstrap/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2453" column="23" selection-start-line="2453" selection-start-column="23" selection-end-line="2453" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://85eac201-221e-4706-8ae8-72ad243b1703/schema/oy_ds/table/oyds_news">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_oyds/navigation/page/deleteNav.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_oyds/navigation/page/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_oyds/navigation/page/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_oyds/navigation/page/insert_nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/m1156ui009/ui/news_list/met_m1156_6/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>

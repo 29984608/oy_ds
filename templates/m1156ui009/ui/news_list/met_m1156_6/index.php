@@ -1,4 +1,21 @@
 <?php defined('IN_MET') or exit('No permission'); ?>
+<?php
+header("Content-type: text/html; charset=utf-8");
+$servername = "localhost";
+$username = "root";
+$password = "root";
+$dbname = "oy_ds";
+// 创建连接
+$conn = new mysqli($servername, $username, $password, $dbname);
+// 检测连接
+if ($conn->connect_error) {
+    die("连接失败: " . $conn->connect_error);
+}
+$sql_news_img = "select * from oyds_news limit 7";
+$sql_news_title = "select * from oyds_news limit 7";
+$rs_img = $conn->query($sql_news_img);
+$rs_title = $conn->query($sql_news_title);
+?>
 <head>
     <meta charset="utf-8">
     <title>layui</title>
@@ -6,30 +23,77 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" href="/templates/m1156ui009/static/css/layui.css" media="all">
+    <link href="/templates/m1156ui009/bootstrap/css/bootstrap.css" rel="stylesheet">
 </head>
+<style type="text/css">
+    .layui-elem-quote a {
+        color: #0C0C0C;
+    }
+
+    .layui-elem-quote a:hover {
+        color: #9EAA99;
+    }
+
+    .layui-elem-quote li {
+        list-style-image: url('/templates/m1156ui009/ui/news_list/met_m1156_6/spot.png');
+    }
+
+    .layui-elem-quote span {
+        font-size: 15px;
+        margin-top: 0px;
+    }
+</style>
 <tag action="category" type="current" cid="$data[classnow]"></tag>
 <if value="$data[classnow] eq 10001||!$ui[bgcolumn]||strstr('|'.strip_tags($ui[bgcolumn]).'|','|'.strip_tags($m[name]).'|')">
     <section class="$uicss lazy {$ui.bgfull}" m-id="{$ui.mid}" data-title="{$ui.bgtitle}"
     <if value='$ui[bgimg] && !strstr($ui[bgimg],$c[met_agents_img])'>data-background="{$ui.bgimg}"</if>
     >
+    <script src="/templates/m1156ui009/static/jquery.js"></script>
+    <script src="/templates/m1156ui009/bootstrap/js/bootstrap.js"></script>
     <div class="news-box">
-        <h2 class="h2">{$ui.title}</h2>
-        <span></span>
-        <div class="info-list container">
-            <table>
+        <h2 style="text-align: center">{$ui.title}</h2>
+        <table width="100%">
+            <tr>
+                <td style="border-bottom:2px solid  #0C0C0C;width: 42px;height: 30px;display:block;margin:0 auto"></td>
+            </tr>
+        </table>
+        <div class="info-list container table-responsive" style="padding-top: 20px">
+            <table class="table">
                 <tr>
-                    <td>
+                    <td class="hidden-xs" style="border: 0px;width: 550px">
                         <div class="layui-carousel" id="test10">
                             <div carousel-item>
-                                <div><img src="http://localhost/upload/201607/1468307527675297.jpg"></div>
-                                <div><img src="http://localhost/upload/201607/1468308011101580.png"></div>
-                                <div><img src="http://localhost/upload/201607/1468307527675297.jpg"></div>
-                                <div><img src="http://localhost/upload/201607/1468312144140292.jpg"></div>
+                                <?php
+                                if ($rs_img->num_rows > 0) {
+                                    while ($row_img = $rs_img->fetch_assoc()) { ?>
+                                        <div><a href="/news/shownews.php?id=<?php echo $row_img['id'] ?>"><img src="<?php echo $row_img['imgurl'] ?>"></a></div>
+                                    <?php }
+                                } ?>
                             </div>
+                        </div>
+                    </td>
+                    <td style="border: none">
+                        <div class="layui-elem-quote" style="font-size: 17px;padding-top: 0px;">
+                            <ul>
+                                <?php if ($rs_title->num_rows > 0) {
+                                    while ($row_title = $rs_title->fetch_assoc()) {
+                                        ?>
+                                        <span><?php $time= explode(' ',$row_title['updatetime'])  ;echo $time[0]  ?></span><br>
+                                        <li><a href="/news/shownews.php?id=<?php echo $row_title['id']?>"><?php echo $row_title['title']?></a></li>
+                                    <?php }
+                                } ?>
+                            </ul>
                         </div>
                     </td>
                 </tr>
             </table>
+        </div>
+        <div style="width: 100%">
+            <a href="/news">
+                <button class="layui-btn layui-btn-primary layui-btn-lg" style="display:block;margin:0 auto">
+                    {$ui.morework}
+                </button>
+            </a>
         </div>
         <script src="/templates/m1156ui009/static/layui.js" charset="utf-8"></script>
         <script>
@@ -41,7 +105,7 @@
                 carousel.render({
                     elem: '#test10'
                     , width: '550px'
-                    , height: '300px'
+                    , height: '325px'
                     , interval: 5000
                 });
 
@@ -85,34 +149,6 @@
                 });
             });
         </script>
-        <!--<ul class="blocks-100 blocks-sm-2 blocks-lg-4">
-          <tag action="list" cid="$ui[column]" type="$ui[type]" num="$ui[number]">
-          <li>
-            <a href="{$v.url}" title="{$v.title}" {$g.urlnew}>
-              <img class="imgloading" data-original="{$v.imgurl|thumb:$ui[width],$ui[height]}" title="{$v.title}" alt="{$v.title}">
-            </a>
-            <a href="{$v.url}" title="{$v.title}" {$g.urlnew}>
-              <strong>{$v.title}</strong>
-            </a>
-            <font>{$v.updatetime}</font>
-            <p>{$v.description|utf8substr:0,$ui[subnum]}</p>
-            <if value="$ui[tagok]">
-            <span>
-            {$ui.tag}
-            <list data="$v[tag]" name="$val">
-            <if value="$val">
-            <a href="search/?searchword={$val}" title="{$val}" {$g.urlnew}>{$val}</a>
-            </if>
-            </list>
-            </span>
-            </if>
-          </li>
-          </tag>
-        </ul>-->
-        <if value="$ui[moreok]">
-            <tag action="category" cid="$ui[imgcolumn]" type="current"></tag>
-            <a class="news-button" href="{$m.url}" title="{$ui.title}" {$m.urlnew}>{$ui.morework}</a>
-        </if>
     </div>
     </section>
     <elseif value="$_GET[pageset]"/>
